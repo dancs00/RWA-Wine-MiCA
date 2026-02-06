@@ -1,5 +1,10 @@
 # RWA-Wine-MiCA
 
+## 🌐 Live Testnet Deployment (Sepolia)
+The smart contract is deployed and verified on the Ethereum Sepolia Testnet. 
+You can interact with the contract and audit the code here:
+[0xeabea3069c6e135ad5637bd61b48771c8e55a18f](https://sepolia.etherscan.io/address/0xeabea3069c6e135ad5637bd61b48771c8e55a18f#code)
+
 # 🍷 Wine-Future RWA: Tokenizzazione del Montepulciano d'Abruzzo DOCG 2025
 
 ## 📌 Visione del Progetto
