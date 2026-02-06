@@ -3,7 +3,7 @@
 # 🍷 Wine-Future RWA: Tokenizzazione del Montepulciano d'Abruzzo DOCG 2025
 
 ## 📌 Visione del Progetto
-Il settore vitivinicolo di alta gamma, in particolare per denominazioni come il **Montepulciano d'Abruzzo DOCG**, affronta una sfida finanziaria strutturale: il "gap di liquidità". Il vino prodotto nel 2025 richiede anni di affinamento obbligatorio prima di poter essere venduto, immobilizzando capitale operativo per le cantine.
+Il settore vitivinicolo di alta gamma, in particolare per denominazioni come il **Montepulciano d'Abruzzo DOCG**, affronta una sfida finanziaria strutturale: il "gap di liquidità". Il vino prodotto richiede anni di affinamento obbligatorio prima di poter essere venduto, immobilizzando capitale operativo per le cantine.
 
 **Wine-Future RWA** trasforma l'inventario in affinamento in un asset digitale liquido. Attraverso lo standard **ERC-1155**, le aziende vinicole possono emettere "Futures" digitali conformi alla normativa **MiCA**, ottenendo finanziamenti immediati mentre il prodotto matura in botte.
 
